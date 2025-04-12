@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const students = [
     { studentId: "202301", name: "김철수", googleId: "chulsoo.kim@school.com", password: "abcd1234" },
     { studentId: "202302", name: "이영희", googleId: "younghee.lee@school.com", password: "pass5678" },
+    { studentId: "202304", name: "이순신", googleId: "younghee.lee@school.com", password: "pass5678" },
     { studentId: "202303", name: "박지민", googleId: "jimin.park@school.com", password: "hello2023" },
     // 원하는 만큼 추가 가능
   ];
